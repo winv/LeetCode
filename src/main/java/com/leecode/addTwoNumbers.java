@@ -1,4 +1,4 @@
-package com.com.leecode;
+package com.leecode;
 
 
   //Definition for singly-linked list.
